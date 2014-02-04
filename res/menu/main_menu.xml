@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/dashboard_menuitem" android:title="Home"></item>
+    <item android:id="@+id/refresh_menuitem" android:title="Refresh"></item>
+    <item android:id="@+id/contact_menuitem" android:title="Contact"></item>
+    <item android:id="@+id/rate_this_app_menuitem" android:title="Rate this App"></item>
+</menu>
